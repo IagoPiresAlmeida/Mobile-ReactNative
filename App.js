@@ -1,6 +1,5 @@
 import { SafeAreaView, StyleSheet, Text, View, Image, ScrollView, AppRegistry} from 'react-native';
 import { Feather } from '@expo/vector-icons';
-
 export default function App() {
   return (
     
@@ -12,9 +11,11 @@ export default function App() {
           style={{width: 60, height: 48, marginTop: 30}}
         /> 
         <Feather name="shopping-cart" size={30} color="black" style={{padding: 15, marginTop:25}}/>
-        
       </View>
+
+
     </SafeAreaView>
+    
     
   );
 }
