@@ -9,7 +9,7 @@ const DATA = [
   { id: '5', name: 'Pizza de Pepperoni' , content: 'Pizza com fatias finas de salame pepperoni e queijo.' , price: 'R$ 54,00'},
   { id: '6', name: 'Pizza Margherita' , content: 'Pizza simples com molho de tomate, mussarela e folhas de manjericão.' , price: 'R$ 42,20'},
   { id: '7', name: 'Pizza Quatro Queijos' , content: 'Pizza com uma mistura de queijos, como mussarela, provolone, gorgonzola e parmesão.' , price: 'R$ 55,00'},
-  { id: '8', name: 'Pizza de Bacon' , content: 'Pizza com pedaços de bacon crocante, queijo e molho de tomate.', price: 'R$ 56,60'},
+  { id: '8', name: 'Pizza de Bacon' , content: 'Pizza com pedaços de bacon crocantsdfsdfsdfe, queijo e molho de tomate.', price: 'R$ 56,60'},
   { id: '9', name: 'Pizza de Atum' , content: 'Pizza com atum fresco, queijo e molho de tomate.', price: 'R$ 57,00'},
   { id: '10', name: "Pizza de Alho" , content: 'Pizza salgada com azeite, alho e queijo.', price: 'R$ 46,00' },
   { id: '11', name: 'Pizza de Chocolate' , content: 'Pizza doce com cobertura de chocolate, como Nutella ou calda de chocolate.' , price: 'R$ 40,00'},
